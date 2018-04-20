@@ -1,6 +1,7 @@
 
 static void Method()
 {
+	System.out.println("method");
 }
 public static void main(String args[])
 {
